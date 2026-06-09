@@ -1,0 +1,366 @@
+Date,State,District,Crop,Season,Equipment,Rental_Count,Supply_Count,Rental_Cost
+01-01-2025,Madhya Pradesh,District_E,Sugarcane,Kharif,Thresher,191,193,4926
+02-01-2025,Gujarat,District_E,Cotton,Summer,Thresher,17,26,2933
+03-01-2025,Madhya Pradesh,District_E,Wheat,Rabi,Thresher,135,141,1582
+04-01-2025,Karnataka,District_D,Cotton,Summer,Sprinkler,110,92,4056
+05-01-2025,Gujarat,District_E,Wheat,Summer,Harvester,123,152,2541
+06-01-2025,Maharashtra,District_B,Maize,Rabi,Seed Drill,137,123,3056
+07-01-2025,Gujarat,District_A,Cotton,Rabi,Seed Drill,20,41,4343
+08-01-2025,Punjab,District_B,Rice,Rabi,Harvester,44,38,4298
+09-01-2025,Madhya Pradesh,District_A,Maize,Kharif,Harvester,197,217,2562
+10-01-2025,Punjab,District_A,Wheat,Summer,Tractor,75,98,3195
+11-01-2025,Gujarat,District_C,Wheat,Summer,Sprinkler,35,56,2778
+12-01-2025,Karnataka,District_A,Cotton,Summer,Tractor,73,86,3604
+13-01-2025,Punjab,District_C,Cotton,Rabi,Sprinkler,54,68,3190
+14-01-2025,Maharashtra,District_E,Rice,Summer,Sprinkler,128,122,1984
+15-01-2025,Gujarat,District_A,Cotton,Kharif,Seed Drill,251,275,2178
+16-01-2025,Gujarat,District_E,Cotton,Kharif,Sprinkler,148,169,2097
+17-01-2025,Maharashtra,District_E,Cotton,Rabi,Sprinkler,172,184,1806
+18-01-2025,Maharashtra,District_D,Maize,Kharif,Sprinkler,178,165,4913
+19-01-2025,Punjab,District_A,Sugarcane,Rabi,Seed Drill,209,220,1995
+20-01-2025,Maharashtra,District_D,Wheat,Rabi,Tractor,86,104,3957
+21-01-2025,Gujarat,District_A,Maize,Kharif,Tractor,189,170,1354
+22-01-2025,Punjab,District_A,Wheat,Summer,Harvester,58,63,2233
+23-01-2025,Madhya Pradesh,District_C,Sugarcane,Kharif,Thresher,193,178,2430
+24-01-2025,Maharashtra,District_A,Cotton,Summer,Thresher,26,41,1869
+25-01-2025,Gujarat,District_C,Cotton,Summer,Seed Drill,141,159,2885
+26-01-2025,Maharashtra,District_C,Cotton,Kharif,Tractor,294,308,762
+27-01-2025,Madhya Pradesh,District_B,Wheat,Kharif,Harvester,227,218,3608
+28-01-2025,Gujarat,District_A,Wheat,Summer,Sprinkler,58,40,4999
+29-01-2025,Maharashtra,District_D,Sugarcane,Kharif,Seed Drill,274,273,753
+30-01-2025,Gujarat,District_A,Sugarcane,Kharif,Thresher,250,247,4277
+31-01-2025,Gujarat,District_E,Wheat,Kharif,Seed Drill,81,81,4487
+01-02-2025,Gujarat,District_A,Wheat,Summer,Sprinkler,113,122,3936
+02-02-2025,Gujarat,District_C,Sugarcane,Rabi,Thresher,48,55,1459
+03-02-2025,Maharashtra,District_E,Cotton,Kharif,Sprinkler,26,54,516
+04-02-2025,Madhya Pradesh,District_D,Maize,Rabi,Thresher,22,42,1560
+05-02-2025,Punjab,District_A,Maize,Summer,Sprinkler,98,80,627
+06-02-2025,Karnataka,District_A,Rice,Summer,Harvester,65,90,4363
+07-02-2025,Karnataka,District_B,Sugarcane,Rabi,Harvester,40,52,4841
+08-02-2025,Punjab,District_B,Rice,Summer,Harvester,139,125,4631
+09-02-2025,Punjab,District_D,Wheat,Rabi,Seed Drill,164,171,3274
+10-02-2025,Gujarat,District_A,Rice,Summer,Thresher,141,162,4354
+11-02-2025,Gujarat,District_D,Maize,Kharif,Thresher,119,142,504
+12-02-2025,Madhya Pradesh,District_E,Cotton,Rabi,Sprinkler,85,80,4864
+13-02-2025,Karnataka,District_D,Rice,Rabi,Sprinkler,204,211,1869
+14-02-2025,Punjab,District_B,Maize,Rabi,Tractor,180,160,3349
+15-02-2025,Maharashtra,District_E,Maize,Kharif,Thresher,124,115,4749
+16-02-2025,Gujarat,District_E,Wheat,Kharif,Seed Drill,136,164,2641
+17-02-2025,Madhya Pradesh,District_E,Cotton,Rabi,Harvester,230,245,2257
+18-02-2025,Punjab,District_B,Rice,Rabi,Thresher,133,143,4230
+19-02-2025,Karnataka,District_A,Maize,Kharif,Seed Drill,57,38,1395
+20-02-2025,Gujarat,District_D,Cotton,Rabi,Sprinkler,161,173,3238
+21-02-2025,Gujarat,District_E,Cotton,Summer,Tractor,141,130,1566
+22-02-2025,Madhya Pradesh,District_E,Maize,Summer,Harvester,49,54,1275
+23-02-2025,Punjab,District_B,Rice,Rabi,Harvester,158,144,3767
+24-02-2025,Karnataka,District_E,Rice,Kharif,Sprinkler,257,261,3848
+25-02-2025,Punjab,District_A,Cotton,Rabi,Thresher,197,225,1622
+26-02-2025,Madhya Pradesh,District_B,Wheat,Summer,Thresher,30,22,2826
+27-02-2025,Maharashtra,District_C,Wheat,Rabi,Tractor,167,194,1228
+28-02-2025,Punjab,District_C,Sugarcane,Kharif,Seed Drill,236,234,4671
+01-03-2025,Maharashtra,District_D,Cotton,Summer,Harvester,109,93,4991
+02-03-2025,Maharashtra,District_D,Sugarcane,Kharif,Seed Drill,113,131,2656
+03-03-2025,Punjab,District_B,Rice,Summer,Harvester,113,115,1232
+04-03-2025,Gujarat,District_C,Rice,Summer,Seed Drill,21,44,3824
+05-03-2025,Punjab,District_B,Wheat,Rabi,Sprinkler,160,144,3736
+06-03-2025,Gujarat,District_E,Wheat,Rabi,Seed Drill,192,196,1824
+07-03-2025,Madhya Pradesh,District_D,Cotton,Summer,Sprinkler,97,103,1213
+08-03-2025,Karnataka,District_C,Sugarcane,Kharif,Thresher,226,233,955
+09-03-2025,Punjab,District_A,Wheat,Summer,Thresher,94,98,1323
+10-03-2025,Maharashtra,District_E,Rice,Kharif,Thresher,124,124,4675
+11-03-2025,Punjab,District_C,Cotton,Kharif,Seed Drill,258,255,1756
+12-03-2025,Maharashtra,District_A,Maize,Rabi,Sprinkler,195,186,1853
+13-03-2025,Madhya Pradesh,District_D,Maize,Rabi,Seed Drill,216,245,1039
+14-03-2025,Madhya Pradesh,District_E,Wheat,Summer,Tractor,153,145,3279
+15-03-2025,Punjab,District_E,Sugarcane,Kharif,Harvester,195,221,2444
+16-03-2025,Karnataka,District_B,Rice,Summer,Thresher,9,-11,2693
+17-03-2025,Maharashtra,District_C,Maize,Rabi,Tractor,132,124,4500
+18-03-2025,Karnataka,District_A,Sugarcane,Summer,Tractor,139,124,2500
+19-03-2025,Punjab,District_E,Sugarcane,Kharif,Thresher,102,91,4678
+20-03-2025,Maharashtra,District_E,Wheat,Rabi,Tractor,86,78,2323
+21-03-2025,Karnataka,District_D,Rice,Rabi,Harvester,156,185,4863
+22-03-2025,Maharashtra,District_D,Maize,Rabi,Sprinkler,97,124,3314
+23-03-2025,Punjab,District_E,Rice,Summer,Sprinkler,92,105,1829
+24-03-2025,Karnataka,District_B,Sugarcane,Summer,Harvester,51,63,1858
+25-03-2025,Madhya Pradesh,District_B,Sugarcane,Kharif,Thresher,65,54,3972
+26-03-2025,Karnataka,District_A,Cotton,Kharif,Harvester,28,20,4318
+27-03-2025,Gujarat,District_C,Sugarcane,Summer,Tractor,141,151,3945
+28-03-2025,Madhya Pradesh,District_D,Wheat,Summer,Sprinkler,146,144,4400
+29-03-2025,Punjab,District_A,Maize,Kharif,Seed Drill,166,179,2468
+30-03-2025,Karnataka,District_E,Sugarcane,Kharif,Harvester,103,112,4702
+31-03-2025,Punjab,District_A,Rice,Kharif,Tractor,186,180,802
+01-04-2025,Karnataka,District_D,Rice,Kharif,Harvester,57,43,2146
+02-04-2025,Gujarat,District_D,Maize,Rabi,Harvester,60,54,2575
+03-04-2025,Karnataka,District_A,Wheat,Summer,Harvester,117,121,4096
+04-04-2025,Madhya Pradesh,District_A,Cotton,Rabi,Sprinkler,160,186,4706
+05-04-2025,Karnataka,District_A,Cotton,Summer,Harvester,144,129,3239
+06-04-2025,Karnataka,District_B,Sugarcane,Summer,Thresher,102,103,2824
+07-04-2025,Madhya Pradesh,District_C,Wheat,Summer,Sprinkler,37,53,3095
+08-04-2025,Karnataka,District_D,Cotton,Summer,Seed Drill,73,101,3051
+09-04-2025,Gujarat,District_A,Rice,Summer,Sprinkler,132,156,1641
+10-04-2025,Madhya Pradesh,District_C,Cotton,Kharif,Seed Drill,199,225,2548
+11-04-2025,Karnataka,District_E,Sugarcane,Summer,Seed Drill,76,58,4244
+12-04-2025,Karnataka,District_B,Maize,Summer,Harvester,143,135,4213
+13-04-2025,Madhya Pradesh,District_A,Maize,Kharif,Tractor,42,36,2538
+14-04-2025,Gujarat,District_A,Maize,Rabi,Seed Drill,239,229,3135
+15-04-2025,Gujarat,District_C,Wheat,Rabi,Seed Drill,96,86,1372
+16-04-2025,Punjab,District_D,Sugarcane,Kharif,Thresher,44,37,3121
+17-04-2025,Madhya Pradesh,District_A,Maize,Rabi,Tractor,195,182,1818
+18-04-2025,Gujarat,District_E,Wheat,Summer,Tractor,143,155,3554
+19-04-2025,Karnataka,District_E,Sugarcane,Summer,Sprinkler,114,100,1702
+20-04-2025,Karnataka,District_D,Maize,Kharif,Seed Drill,254,262,3097
+21-04-2025,Maharashtra,District_A,Maize,Kharif,Sprinkler,71,72,2357
+22-04-2025,Karnataka,District_E,Sugarcane,Rabi,Tractor,159,151,3728
+23-04-2025,Punjab,District_E,Cotton,Kharif,Harvester,269,284,1293
+24-04-2025,Gujarat,District_C,Maize,Summer,Harvester,93,78,1314
+25-04-2025,Karnataka,District_C,Cotton,Rabi,Thresher,154,158,2139
+26-04-2025,Madhya Pradesh,District_C,Cotton,Kharif,Thresher,135,163,1103
+27-04-2025,Karnataka,District_A,Sugarcane,Kharif,Tractor,35,60,3976
+28-04-2025,Karnataka,District_D,Wheat,Kharif,Sprinkler,284,284,4002
+29-04-2025,Maharashtra,District_E,Wheat,Rabi,Seed Drill,89,103,1074
+30-04-2025,Madhya Pradesh,District_A,Rice,Summer,Harvester,130,136,917
+01-05-2025,Gujarat,District_A,Sugarcane,Summer,Seed Drill,154,139,4072
+02-05-2025,Maharashtra,District_A,Maize,Summer,Sprinkler,142,142,3620
+03-05-2025,Maharashtra,District_D,Wheat,Kharif,Seed Drill,202,230,4922
+04-05-2025,Maharashtra,District_E,Sugarcane,Summer,Sprinkler,70,94,2000
+05-05-2025,Gujarat,District_B,Wheat,Rabi,Sprinkler,239,220,2661
+06-05-2025,Gujarat,District_D,Wheat,Kharif,Sprinkler,75,64,2401
+07-05-2025,Karnataka,District_D,Wheat,Summer,Seed Drill,47,33,3579
+08-05-2025,Maharashtra,District_A,Sugarcane,Summer,Sprinkler,76,92,4175
+09-05-2025,Karnataka,District_C,Sugarcane,Kharif,Thresher,246,243,4925
+10-05-2025,Maharashtra,District_E,Sugarcane,Kharif,Sprinkler,89,70,2420
+11-05-2025,Punjab,District_D,Sugarcane,Rabi,Harvester,166,165,1304
+12-05-2025,Maharashtra,District_B,Maize,Summer,Seed Drill,85,88,3261
+13-05-2025,Gujarat,District_A,Rice,Summer,Tractor,24,43,4533
+14-05-2025,Punjab,District_A,Wheat,Rabi,Sprinkler,29,42,4298
+15-05-2025,Punjab,District_C,Rice,Kharif,Harvester,176,193,2581
+16-05-2025,Maharashtra,District_E,Wheat,Rabi,Harvester,113,114,4552
+17-05-2025,Gujarat,District_A,Sugarcane,Rabi,Seed Drill,82,71,2208
+18-05-2025,Maharashtra,District_B,Maize,Rabi,Harvester,69,91,4276
+19-05-2025,Gujarat,District_E,Cotton,Summer,Harvester,38,57,2558
+20-05-2025,Madhya Pradesh,District_A,Sugarcane,Summer,Sprinkler,49,75,3211
+21-05-2025,Punjab,District_A,Rice,Summer,Seed Drill,82,104,981
+22-05-2025,Maharashtra,District_B,Rice,Kharif,Tractor,94,74,1740
+23-05-2025,Punjab,District_C,Rice,Kharif,Sprinkler,232,248,4703
+24-05-2025,Madhya Pradesh,District_C,Rice,Summer,Thresher,56,52,829
+25-05-2025,Maharashtra,District_A,Cotton,Rabi,Sprinkler,38,40,2921
+26-05-2025,Maharashtra,District_B,Wheat,Summer,Sprinkler,136,160,546
+27-05-2025,Karnataka,District_A,Rice,Kharif,Harvester,234,228,1128
+28-05-2025,Maharashtra,District_C,Rice,Summer,Thresher,89,107,3542
+29-05-2025,Karnataka,District_C,Rice,Summer,Tractor,18,41,630
+30-05-2025,Punjab,District_C,Rice,Summer,Seed Drill,50,78,4087
+31-05-2025,Punjab,District_A,Maize,Rabi,Tractor,44,65,1631
+01-06-2025,Karnataka,District_C,Rice,Rabi,Sprinkler,40,37,4310
+02-06-2025,Gujarat,District_D,Maize,Rabi,Tractor,98,93,4011
+03-06-2025,Madhya Pradesh,District_A,Rice,Rabi,Tractor,155,139,3124
+04-06-2025,Maharashtra,District_C,Maize,Rabi,Harvester,111,127,931
+05-06-2025,Maharashtra,District_E,Wheat,Summer,Tractor,105,96,2734
+06-06-2025,Karnataka,District_E,Maize,Kharif,Sprinkler,209,227,1963
+07-06-2025,Gujarat,District_E,Rice,Kharif,Seed Drill,31,30,1384
+08-06-2025,Gujarat,District_E,Rice,Summer,Harvester,58,86,3053
+09-06-2025,Gujarat,District_E,Maize,Rabi,Tractor,25,24,2413
+10-06-2025,Maharashtra,District_E,Sugarcane,Rabi,Sprinkler,243,239,502
+11-06-2025,Gujarat,District_E,Maize,Summer,Tractor,66,59,1880
+12-06-2025,Karnataka,District_C,Wheat,Summer,Sprinkler,36,18,1855
+13-06-2025,Karnataka,District_A,Wheat,Kharif,Sprinkler,218,235,4472
+14-06-2025,Karnataka,District_B,Maize,Kharif,Seed Drill,157,176,1824
+15-06-2025,Punjab,District_C,Rice,Summer,Harvester,49,73,1812
+16-06-2025,Gujarat,District_D,Wheat,Summer,Sprinkler,51,43,862
+17-06-2025,Punjab,District_A,Maize,Rabi,Seed Drill,203,189,1056
+18-06-2025,Karnataka,District_A,Sugarcane,Summer,Harvester,125,134,2074
+19-06-2025,Karnataka,District_D,Rice,Rabi,Thresher,33,14,3617
+20-06-2025,Gujarat,District_A,Wheat,Kharif,Harvester,162,176,1507
+21-06-2025,Gujarat,District_B,Wheat,Rabi,Seed Drill,98,107,2584
+22-06-2025,Punjab,District_D,Cotton,Rabi,Seed Drill,44,45,1385
+23-06-2025,Maharashtra,District_B,Sugarcane,Rabi,Harvester,43,51,4247
+24-06-2025,Gujarat,District_C,Cotton,Kharif,Seed Drill,39,51,4499
+25-06-2025,Gujarat,District_C,Rice,Summer,Harvester,145,153,1015
+26-06-2025,Maharashtra,District_C,Maize,Kharif,Thresher,264,275,3701
+27-06-2025,Madhya Pradesh,District_C,Sugarcane,Summer,Tractor,117,124,1488
+28-06-2025,Punjab,District_E,Sugarcane,Rabi,Sprinkler,170,187,4098
+29-06-2025,Karnataka,District_E,Sugarcane,Kharif,Tractor,65,62,2755
+30-06-2025,Gujarat,District_D,Wheat,Kharif,Thresher,105,99,1550
+01-07-2025,Karnataka,District_D,Sugarcane,Kharif,Seed Drill,56,55,1026
+02-07-2025,Maharashtra,District_A,Cotton,Kharif,Tractor,114,117,1083
+03-07-2025,Gujarat,District_E,Wheat,Kharif,Harvester,131,156,4066
+04-07-2025,Gujarat,District_E,Wheat,Kharif,Seed Drill,179,166,1278
+05-07-2025,Gujarat,District_A,Wheat,Kharif,Seed Drill,240,229,1435
+06-07-2025,Karnataka,District_D,Wheat,Rabi,Tractor,60,52,2449
+07-07-2025,Maharashtra,District_E,Cotton,Rabi,Harvester,218,223,2209
+08-07-2025,Karnataka,District_B,Rice,Rabi,Seed Drill,78,68,816
+09-07-2025,Gujarat,District_C,Wheat,Rabi,Tractor,144,173,1215
+10-07-2025,Karnataka,District_D,Cotton,Rabi,Sprinkler,171,161,707
+11-07-2025,Madhya Pradesh,District_B,Rice,Summer,Sprinkler,114,135,4609
+12-07-2025,Gujarat,District_B,Cotton,Summer,Seed Drill,130,128,4138
+13-07-2025,Madhya Pradesh,District_E,Maize,Summer,Thresher,48,71,4165
+14-07-2025,Karnataka,District_C,Maize,Kharif,Sprinkler,224,238,852
+15-07-2025,Madhya Pradesh,District_A,Maize,Summer,Harvester,43,59,3279
+16-07-2025,Madhya Pradesh,District_D,Cotton,Rabi,Tractor,235,250,1773
+17-07-2025,Punjab,District_B,Cotton,Rabi,Harvester,214,232,4509
+18-07-2025,Gujarat,District_C,Rice,Rabi,Thresher,29,53,1029
+19-07-2025,Punjab,District_A,Sugarcane,Rabi,Seed Drill,126,149,1025
+20-07-2025,Karnataka,District_E,Maize,Rabi,Thresher,76,69,2778
+21-07-2025,Maharashtra,District_D,Rice,Summer,Tractor,104,118,1752
+22-07-2025,Punjab,District_A,Cotton,Kharif,Sprinkler,35,28,3139
+23-07-2025,Karnataka,District_E,Rice,Rabi,Tractor,18,17,2860
+24-07-2025,Madhya Pradesh,District_D,Wheat,Summer,Thresher,149,140,2712
+25-07-2025,Maharashtra,District_A,Cotton,Summer,Seed Drill,140,133,1468
+26-07-2025,Punjab,District_D,Rice,Kharif,Tractor,199,184,3032
+27-07-2025,Punjab,District_C,Maize,Kharif,Tractor,300,291,775
+28-07-2025,Punjab,District_B,Sugarcane,Summer,Harvester,51,61,3749
+29-07-2025,Madhya Pradesh,District_D,Maize,Rabi,Harvester,168,197,1864
+30-07-2025,Maharashtra,District_E,Maize,Summer,Harvester,59,48,3985
+31-07-2025,Karnataka,District_B,Wheat,Rabi,Tractor,111,115,3572
+01-08-2025,Gujarat,District_E,Maize,Kharif,Harvester,121,133,3132
+02-08-2025,Punjab,District_E,Wheat,Summer,Seed Drill,88,113,2167
+03-08-2025,Gujarat,District_B,Rice,Kharif,Tractor,71,95,4212
+04-08-2025,Maharashtra,District_E,Wheat,Rabi,Thresher,189,217,1235
+05-08-2025,Maharashtra,District_C,Cotton,Rabi,Harvester,28,15,3389
+06-08-2025,Karnataka,District_A,Sugarcane,Kharif,Harvester,141,122,3001
+07-08-2025,Madhya Pradesh,District_E,Maize,Rabi,Tractor,31,44,4899
+08-08-2025,Punjab,District_D,Cotton,Summer,Sprinkler,151,176,3045
+09-08-2025,Madhya Pradesh,District_C,Sugarcane,Kharif,Thresher,255,250,2338
+10-08-2025,Punjab,District_D,Wheat,Summer,Sprinkler,20,20,640
+11-08-2025,Gujarat,District_B,Maize,Kharif,Seed Drill,73,80,605
+12-08-2025,Madhya Pradesh,District_B,Rice,Kharif,Thresher,226,212,3679
+13-08-2025,Karnataka,District_E,Wheat,Rabi,Thresher,66,65,1975
+14-08-2025,Maharashtra,District_D,Maize,Rabi,Sprinkler,190,195,509
+15-08-2025,Karnataka,District_A,Maize,Rabi,Tractor,201,184,4645
+16-08-2025,Gujarat,District_D,Cotton,Summer,Harvester,93,91,3540
+17-08-2025,Karnataka,District_E,Wheat,Summer,Seed Drill,150,151,4003
+18-08-2025,Punjab,District_C,Cotton,Summer,Sprinkler,123,116,1600
+19-08-2025,Punjab,District_A,Wheat,Rabi,Sprinkler,38,20,2077
+20-08-2025,Punjab,District_A,Wheat,Summer,Seed Drill,60,43,1741
+21-08-2025,Karnataka,District_E,Cotton,Kharif,Tractor,266,254,2414
+22-08-2025,Maharashtra,District_D,Maize,Kharif,Seed Drill,217,240,4110
+23-08-2025,Punjab,District_B,Sugarcane,Rabi,Seed Drill,164,165,3274
+24-08-2025,Madhya Pradesh,District_B,Wheat,Summer,Harvester,48,35,1161
+25-08-2025,Madhya Pradesh,District_B,Cotton,Kharif,Thresher,79,74,3165
+26-08-2025,Maharashtra,District_D,Wheat,Summer,Thresher,41,60,2040
+27-08-2025,Madhya Pradesh,District_D,Wheat,Kharif,Thresher,149,150,2266
+28-08-2025,Maharashtra,District_E,Cotton,Rabi,Seed Drill,186,198,2101
+29-08-2025,Maharashtra,District_E,Rice,Summer,Tractor,67,69,2189
+30-08-2025,Madhya Pradesh,District_B,Sugarcane,Rabi,Sprinkler,188,209,4607
+31-08-2025,Maharashtra,District_B,Rice,Kharif,Sprinkler,264,273,633
+01-09-2025,Gujarat,District_D,Wheat,Summer,Thresher,136,142,4725
+02-09-2025,Gujarat,District_B,Cotton,Rabi,Harvester,43,47,4759
+03-09-2025,Maharashtra,District_E,Cotton,Summer,Sprinkler,145,149,3029
+04-09-2025,Punjab,District_B,Cotton,Kharif,Seed Drill,289,300,4723
+05-09-2025,Madhya Pradesh,District_E,Cotton,Rabi,Thresher,89,100,2384
+06-09-2025,Gujarat,District_B,Cotton,Summer,Sprinkler,48,32,2453
+07-09-2025,Karnataka,District_A,Rice,Rabi,Sprinkler,240,228,2630
+08-09-2025,Maharashtra,District_C,Maize,Kharif,Seed Drill,197,192,899
+09-09-2025,Madhya Pradesh,District_A,Cotton,Summer,Tractor,92,100,1319
+10-09-2025,Madhya Pradesh,District_D,Rice,Summer,Thresher,100,86,2639
+11-09-2025,Punjab,District_E,Maize,Rabi,Harvester,92,86,3208
+12-09-2025,Karnataka,District_B,Maize,Kharif,Thresher,145,169,1171
+13-09-2025,Madhya Pradesh,District_A,Sugarcane,Kharif,Seed Drill,246,251,3057
+14-09-2025,Madhya Pradesh,District_B,Cotton,Rabi,Sprinkler,233,254,2944
+15-09-2025,Maharashtra,District_A,Wheat,Kharif,Tractor,213,240,1620
+16-09-2025,Karnataka,District_B,Rice,Kharif,Seed Drill,76,77,2747
+17-09-2025,Maharashtra,District_A,Cotton,Summer,Thresher,71,51,2648
+18-09-2025,Punjab,District_A,Sugarcane,Kharif,Thresher,289,292,3588
+19-09-2025,Punjab,District_D,Maize,Rabi,Seed Drill,198,192,3046
+20-09-2025,Madhya Pradesh,District_C,Sugarcane,Rabi,Thresher,25,14,2073
+21-09-2025,Madhya Pradesh,District_A,Wheat,Kharif,Harvester,287,315,2327
+22-09-2025,Madhya Pradesh,District_A,Wheat,Kharif,Harvester,214,203,2696
+23-09-2025,Madhya Pradesh,District_D,Sugarcane,Rabi,Thresher,219,230,3859
+24-09-2025,Madhya Pradesh,District_B,Sugarcane,Rabi,Tractor,231,219,4197
+25-09-2025,Madhya Pradesh,District_D,Maize,Summer,Tractor,103,114,538
+26-09-2025,Maharashtra,District_D,Wheat,Summer,Harvester,136,136,801
+27-09-2025,Madhya Pradesh,District_C,Sugarcane,Kharif,Seed Drill,74,71,4808
+28-09-2025,Madhya Pradesh,District_C,Rice,Summer,Sprinkler,137,129,2825
+29-09-2025,Gujarat,District_E,Maize,Kharif,Sprinkler,213,215,2960
+30-09-2025,Madhya Pradesh,District_A,Maize,Summer,Harvester,127,107,1784
+01-10-2025,Gujarat,District_A,Cotton,Summer,Harvester,93,97,3581
+02-10-2025,Punjab,District_C,Sugarcane,Rabi,Tractor,159,147,3047
+03-10-2025,Madhya Pradesh,District_B,Rice,Rabi,Seed Drill,30,29,3134
+04-10-2025,Gujarat,District_C,Maize,Rabi,Seed Drill,149,148,2429
+05-10-2025,Gujarat,District_B,Maize,Rabi,Thresher,84,102,2952
+06-10-2025,Karnataka,District_D,Cotton,Kharif,Thresher,64,50,3063
+07-10-2025,Punjab,District_C,Maize,Rabi,Seed Drill,172,181,1093
+08-10-2025,Gujarat,District_D,Cotton,Summer,Tractor,68,66,1163
+09-10-2025,Punjab,District_D,Rice,Rabi,Thresher,206,204,931
+10-10-2025,Punjab,District_D,Wheat,Summer,Tractor,141,169,3310
+11-10-2025,Madhya Pradesh,District_C,Sugarcane,Kharif,Seed Drill,207,219,2948
+12-10-2025,Madhya Pradesh,District_D,Sugarcane,Summer,Seed Drill,71,59,3971
+13-10-2025,Punjab,District_A,Cotton,Kharif,Harvester,95,87,4196
+14-10-2025,Punjab,District_A,Sugarcane,Kharif,Sprinkler,248,262,2503
+15-10-2025,Maharashtra,District_E,Rice,Kharif,Seed Drill,126,144,3478
+16-10-2025,Maharashtra,District_A,Cotton,Rabi,Tractor,232,242,2119
+17-10-2025,Maharashtra,District_D,Maize,Rabi,Seed Drill,146,160,2474
+18-10-2025,Madhya Pradesh,District_B,Rice,Kharif,Thresher,134,122,2219
+19-10-2025,Gujarat,District_D,Rice,Rabi,Sprinkler,41,70,4500
+20-10-2025,Gujarat,District_B,Sugarcane,Summer,Thresher,152,145,4760
+21-10-2025,Karnataka,District_E,Rice,Kharif,Sprinkler,153,156,2852
+22-10-2025,Gujarat,District_C,Wheat,Kharif,Seed Drill,272,301,1394
+23-10-2025,Karnataka,District_A,Wheat,Kharif,Thresher,111,118,2590
+24-10-2025,Maharashtra,District_A,Wheat,Rabi,Harvester,99,99,4088
+25-10-2025,Karnataka,District_A,Rice,Rabi,Harvester,200,218,3657
+26-10-2025,Madhya Pradesh,District_D,Sugarcane,Rabi,Sprinkler,104,115,2824
+27-10-2025,Madhya Pradesh,District_B,Cotton,Rabi,Seed Drill,191,191,2249
+28-10-2025,Madhya Pradesh,District_D,Sugarcane,Kharif,Tractor,286,267,4470
+29-10-2025,Madhya Pradesh,District_A,Rice,Summer,Seed Drill,40,62,4902
+30-10-2025,Gujarat,District_D,Rice,Kharif,Seed Drill,153,141,2785
+31-10-2025,Karnataka,District_B,Cotton,Rabi,Seed Drill,174,169,3424
+01-11-2025,Gujarat,District_C,Rice,Summer,Tractor,115,131,1187
+02-11-2025,Gujarat,District_E,Cotton,Rabi,Sprinkler,59,50,4458
+03-11-2025,Maharashtra,District_E,Maize,Kharif,Thresher,264,271,1625
+04-11-2025,Karnataka,District_C,Sugarcane,Kharif,Tractor,215,198,4364
+05-11-2025,Madhya Pradesh,District_B,Rice,Rabi,Thresher,42,59,1145
+06-11-2025,Gujarat,District_D,Cotton,Kharif,Sprinkler,292,315,3004
+07-11-2025,Punjab,District_B,Sugarcane,Rabi,Harvester,38,38,2198
+08-11-2025,Madhya Pradesh,District_B,Wheat,Summer,Harvester,61,63,3747
+09-11-2025,Maharashtra,District_E,Cotton,Summer,Sprinkler,135,134,3440
+10-11-2025,Karnataka,District_B,Sugarcane,Summer,Tractor,123,110,4330
+11-11-2025,Gujarat,District_D,Rice,Kharif,Thresher,117,110,959
+12-11-2025,Maharashtra,District_A,Sugarcane,Kharif,Harvester,191,176,2954
+13-11-2025,Gujarat,District_C,Rice,Rabi,Seed Drill,101,99,4417
+14-11-2025,Gujarat,District_D,Wheat,Kharif,Harvester,186,184,3446
+15-11-2025,Karnataka,District_C,Wheat,Kharif,Tractor,222,248,4993
+16-11-2025,Punjab,District_E,Cotton,Kharif,Tractor,114,118,2262
+17-11-2025,Maharashtra,District_C,Wheat,Summer,Seed Drill,12,32,4508
+18-11-2025,Punjab,District_A,Cotton,Summer,Sprinkler,69,98,1992
+19-11-2025,Punjab,District_E,Cotton,Kharif,Sprinkler,276,264,4016
+20-11-2025,Maharashtra,District_D,Sugarcane,Kharif,Harvester,123,147,842
+21-11-2025,Madhya Pradesh,District_D,Wheat,Summer,Harvester,53,53,2073
+22-11-2025,Madhya Pradesh,District_A,Maize,Summer,Seed Drill,55,62,1271
+23-11-2025,Madhya Pradesh,District_E,Sugarcane,Rabi,Seed Drill,215,195,1610
+24-11-2025,Maharashtra,District_B,Wheat,Kharif,Seed Drill,34,32,3951
+25-11-2025,Karnataka,District_A,Wheat,Kharif,Thresher,174,167,1955
+26-11-2025,Punjab,District_D,Wheat,Kharif,Thresher,105,133,1713
+27-11-2025,Gujarat,District_D,Cotton,Kharif,Harvester,93,114,2929
+28-11-2025,Maharashtra,District_A,Maize,Kharif,Tractor,62,80,682
+29-11-2025,Maharashtra,District_E,Sugarcane,Rabi,Sprinkler,191,216,4128
+30-11-2025,Maharashtra,District_D,Sugarcane,Kharif,Thresher,193,220,3872
+01-12-2025,Karnataka,District_D,Rice,Kharif,Tractor,168,170,4241
+02-12-2025,Punjab,District_A,Cotton,Rabi,Harvester,94,109,1093
+03-12-2025,Punjab,District_C,Cotton,Kharif,Tractor,150,144,4506
+04-12-2025,Karnataka,District_E,Wheat,Rabi,Harvester,84,76,1409
+05-12-2025,Karnataka,District_C,Wheat,Kharif,Seed Drill,42,27,3214
+06-12-2025,Punjab,District_B,Maize,Rabi,Sprinkler,192,173,4508
+07-12-2025,Madhya Pradesh,District_C,Sugarcane,Kharif,Thresher,186,196,1931
+08-12-2025,Maharashtra,District_D,Maize,Rabi,Sprinkler,191,205,4000
+09-12-2025,Maharashtra,District_E,Rice,Rabi,Seed Drill,143,154,1974
+10-12-2025,Gujarat,District_D,Cotton,Summer,Tractor,62,52,2541
+11-12-2025,Gujarat,District_A,Cotton,Kharif,Harvester,256,242,3767
+12-12-2025,Punjab,District_A,Wheat,Summer,Seed Drill,29,26,2511
+13-12-2025,Gujarat,District_C,Sugarcane,Rabi,Sprinkler,87,104,1075
+14-12-2025,Punjab,District_B,Cotton,Rabi,Tractor,53,81,2400
+15-12-2025,Karnataka,District_E,Sugarcane,Summer,Sprinkler,44,49,1678
+16-12-2025,Gujarat,District_C,Rice,Summer,Harvester,24,33,4509
+17-12-2025,Punjab,District_B,Maize,Kharif,Harvester,208,222,3658
+18-12-2025,Madhya Pradesh,District_B,Cotton,Kharif,Tractor,74,100,2436
+19-12-2025,Punjab,District_D,Maize,Kharif,Tractor,104,117,864
+20-12-2025,Punjab,District_C,Sugarcane,Summer,Harvester,95,123,840
+21-12-2025,Madhya Pradesh,District_E,Cotton,Summer,Seed Drill,110,102,1634
+22-12-2025,Karnataka,District_C,Cotton,Summer,Thresher,20,17,2651
+23-12-2025,Maharashtra,District_B,Sugarcane,Kharif,Thresher,34,30,3160
+24-12-2025,Madhya Pradesh,District_C,Sugarcane,Kharif,Harvester,47,73,3711
+25-12-2025,Punjab,District_C,Cotton,Kharif,Tractor,56,81,1382
+26-12-2025,Gujarat,District_B,Cotton,Rabi,Harvester,145,157,2954
+27-12-2025,Gujarat,District_C,Wheat,Summer,Harvester,161,167,4677
+28-12-2025,Madhya Pradesh,District_C,Cotton,Summer,Thresher,150,138,2363
+29-12-2025,Madhya Pradesh,District_E,Wheat,Kharif,Tractor,169,167,2990
+30-12-2025,Punjab,District_E,Maize,Summer,Harvester,32,14,4137
+31-12-2025,Karnataka,District_B,Maize,Rabi,Tractor,197,206,4652
